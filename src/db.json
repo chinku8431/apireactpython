@@ -1,0 +1,17 @@
+{
+    "todos":[
+        {
+           "name":"Movie 2",
+           "description":"This is movie 2",
+           "rating":5.0,
+           "image":"http://127.0.0.1:8000/media/Images/None/sampleImg.jpg"
+        },
+        {
+           "name":"Movie 3",
+           "description":"This is movie 3",
+           "rating":5.0,
+           "image":"http://127.0.0.1:8000/media/Images/None/sampleImg.jpg"
+        }
+     ]
+}
+
